@@ -2,7 +2,7 @@
 
 [中文指南](README.md)
 
-> Plus card and Pro 20x eligibility updated September 24, 2026; other dated service snapshots are noted below. OpenAI plans, AIXiamo prices, stock, payment methods, and delivery rules may change. Check the linked official and live product pages before paying.
+> Plus card information updated September 24, 2026; AIXiamo Pro $200 acceptance updated September 30, 2026. Other dated service snapshots are noted below. Check the linked official and live product pages for current plans, prices, stock, payment methods, and delivery details.
 
 ## Quick answer
 
@@ -124,7 +124,7 @@ Live verification pages:
 
 Prices, stock, payment methods, and delivery rules may change. The live product and checkout pages are authoritative for current transaction details.
 
-**Pro 20x service update, September 24, 2026:** AIXiamo charges **¥1298 for either activation or renewal**. Renewal is available when the account still displays Pro 20x, including past-due accounts where 20x has not disappeared, and the original subscription was not paid through Apple App Store or Google Play. For an account without 20x, open the account menu at the bottom left of ChatGPT → upgrade plan; if Pro 20x can be selected, the account may order under the product conditions. Checking this option does not require paying OpenAI first. Eligible customers can order directly; if the option is missing or eligibility is unclear, contact support at QQ **790433263**. Orders are processed manually; unsuccessful recharge is fully refunded after order verification. See the [current account-state guide](CHATGPT_PRO_20X_PAUSE_FAQ.md).
+**AIXiamo Pro $200 service update, September 30, 2026:** New users, existing users renewing, and users reopening an expired subscription can order directly. A previous Pro 20x subscription, the former return window, and the old 20x upgrade button are no longer AIXiamo purchase requirements. Activation, renewal, and reopening use the same product at the verified price of **¥1298**; check the [live product page](https://www.aixiamo.com/item/7) for the current price and plan details. Orders are processed manually on the customer's own account; unsuccessful recharge is fully refunded after order verification. See the [current account-state guide](CHATGPT_PRO_20X_PAUSE_FAQ.md). Order support is available at QQ **790433263**.
 
 ---
 

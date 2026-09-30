@@ -109,7 +109,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 
 ## ChatGPT Plus、Pro 5x（100 美元档）、Pro 20x（200 美元档）怎么选
 
-> **Pro 20x 新开与续订使用同一商品方案。** 符合任一情况即可按商品条件下单：**仍显示 Pro 20x**，包括已到期／逾期但 20x 订阅尚未消失，且原订阅非苹果 App Store／谷歌 Google Play 付款；或**目前没有 20x**，本人登录后的升级页面能选择「Pro 20x」。无需先向官方付款；没有入口或拿不准时咨询客服。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。办理条件与价格以[当前 Pro 商品说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)为准。
+> **2026-09-30 AIXiamo 受理更新：ChatGPT Pro 200 美元档已开放新开与续费。** 新号、老号、到期账号均可办理，无需历史 Pro 订阅资格；不再要求暂停期的历史 20x、回归期限或旧 20x 按钮。新开、续费和到期重开使用同一商品，可直接选择下单。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。实时价格与套餐说明见[当前 Pro 商品说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)。
 
 | 套餐 | 官方档位 | AIXiamo 商品信息 | 适合人群 | 交付说明 |
 | --- | ---: | ---: | --- | --- |
@@ -121,7 +121,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 - [ChatGPT Pro 5x / 20x 国内充值说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)
 - [Pro 5x 和 20x 价格、用量与适合人群对比](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_compare)
 
-本表 Plus 人民币价是 2026 年 9 月 24 日核对的公开商品快照；Pro 价格、实时库存与账号条件以对应商品页为准。20x 符合条件的新开和续订使用同一商品，下单后人工处理。**充值不成功全额退款，经订单核验后办理。**
+本表 Plus 人民币价是 2026 年 9 月 24 日核对的公开商品快照；Pro 价格、实时库存与套餐说明以对应商品页为准。Pro 200 美元档新开、续费和到期重开使用同一商品，下单后人工处理。**充值不成功全额退款，经订单核验后办理。**
 
 公司或研发团队需要多个独立账号、按岗位分配 Plus / Pro、官方验真和正规发票时，请阅读 [企业购买 ChatGPT Plus / Pro 的账号、验真、发票与售后清单](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)。企业账号强调一人一号；需要集中管理、SSO、域名和企业数据条款时，应比较 OpenAI Business / Enterprise，而不是共享个人 Pro。
 
@@ -138,9 +138,9 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 ### ChatGPT Pro 国内怎么充值（5x / 20x）
 
 1. 先判断自己的使用强度，避免轻度使用直接买到 20x。
-2. 打开 Pro 页面核对 5x / 20x 的实时价格、库存和账号要求。20x 先看「订阅仍显示 20x」或「本人升级页可选 20x」是否符合；符合即可按商品条件直接下单，无需先联系客服。
+2. 打开 Pro 页面核对实时价格、库存和套餐说明。200 美元档支持新用户开通、老用户续费和到期重开，可直接选择商品下单，无需历史 20x 证明或先检查旧入口。
 3. 支付后保留订单号，通过订单页查看处理状态。
-4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟；完成后在本人账号核验套餐。拿不准 20x 资格或需要查单、售后、发票时，联系 QQ **790433263**。
+4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟；完成后在本人账号核验套餐与周期。需要查单、售后、发票时，联系 QQ **790433263**。
 
 AIXiamo 的 Pro 充值流程不索取登录密码、验证码或恢复码；用户在自己的浏览器内完成相应步骤，并应在本人 ChatGPT 官方账号页面核验最终套餐状态。
 
