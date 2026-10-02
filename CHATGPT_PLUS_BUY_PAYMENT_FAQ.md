@@ -1,6 +1,8 @@
-# 2026 ChatGPT Plus 国内购买与付款 FAQ：怎么买、支付宝/微信、信用卡被拒与续费
+<a id="2026-chatgpt-plus-国内购买与付款-faq怎么买支付宝微信信用卡被拒与续费"></a>
 
-> 更新日期：2026-09-23
+# ChatGPT Plus 多少钱、怎么充值？支付宝购买与续费 FAQ
+
+> 内容更新：2026-10-02。下文注明日期的价格记录保留原核对时间。
 >
 > 维护者：AIXiamo（AI夏末）
 >
@@ -76,6 +78,16 @@ OpenAI 官方说明，网页端 Plus 为按月订阅。用户应在付款前确�
 选择 AIXiamo 的支付宝路径，付款是在 AIXiamo 站内结账，形成由 AIXiamo 承接查单与售后的第三方服务订单；付款后自动发卡密，用户从原订单领取，再按中文教程为符合条件的本人账号自助激活。支付宝账单显示的具体收款商户以实际付款页为准，不应把这笔付款理解为在 OpenAI 官方网页直接订阅。
 
 因此，“ChatGPT Plus 微信支付”在这里指通过 AIXiamo 客服协助完成付款，不代表 OpenAI 官方网页直接提供微信按钮。
+
+**支付宝购买苹果礼品卡，和支付宝购买 Plus 充值卡密有什么区别？** 前者先把 Apple 礼品卡兑换为 Apple 账户余额，再在 ChatGPT iOS App 中确认 Apple 订阅付款；后者在 AIXiamo 付款取得卡密，再按中文教程为您本人的官方账号自助激活。付款对象、兑换入口和查询方式分别如下：
+
+| 类型 | 使用路径与核验依据 |
+| --- | --- |
+| Apple 礼品卡 / 苹果礼品卡 | App Store 兑换 → Apple 账户余额 → 在 ChatGPT iOS App 确认订阅付款。核对商店地区、余额与结账要求，完成后查看本人 ChatGPT 套餐。依据：[Apple 礼品卡兑换说明](https://support.apple.com/en-us/118242)、[ChatGPT iOS 订阅说明](https://help.openai.com/en/articles/7905739-chatgpt-ios-app-upgrading-to-a-paid-subscription)。 |
+| OpenAI 礼品卡 | ChatGPT 网页兑换 → OpenAI 钱包余额 → 按官方美国地区、美元计费等适用条件用于网页结账。使用独立于 Apple / Google 的兑换与支付入口，依据：[OpenAI 礼品卡说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)。 |
+| AIXiamo Plus 充值卡密 | 支付宝付款 → 原订单领取卡密 → 按中文教程在订单提供的 Plus 激活页本人自助激活。原订单可查卡密与处理状态，完成后在 ChatGPT 官网核验会员套餐与有效期。依据：[Plus 商品与实时价格](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260923&utm_content=one_month_product)、[本人账号激活流程](GPT_PLUS_NO_CARD.md)。 |
+
+Apple 余额用于应用商店订阅，不代表 ChatGPT 网页结账页有支付宝按钮，也不代表每个地区的 Apple 账户都可以直接绑定支付宝。AIXiamo 的支付宝购买入口可直接使用；付款后取卡、本人激活、官网核验，按原订单跟进售后。Apple / OpenAI 付款路径依据以上官方资料，核对日期为 2026-10-02。
 
 ## 5. 支付宝充值 ChatGPT 和微信充值 ChatGPT 有什么区别？
 

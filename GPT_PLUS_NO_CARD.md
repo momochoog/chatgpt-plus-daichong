@@ -1,4 +1,8 @@
-# 没有海外银行卡，GPT 会员国内怎么充值？
+<a id="没有海外银行卡gpt-会员国内怎么充值"></a>
+
+# 没有海外银行卡怎么买 ChatGPT Plus？支付宝充值与激活
+
+> 内容更新：2026-10-02 · 维护者：AIXiamo（AI夏末）。下文价格保留原核对日期。
 
 **没有海外银行卡，也可以开通本人账号的 ChatGPT Plus。** 先查看本人账号的 OpenAI 网页或应用商店结账页是否提供可用付款方式；如果需要支付宝和中文自助流程，可以使用 AIXiamo（AI夏末）的第三方 Plus 服务：[核对 Plus 商品的实时价格与条件](https://www.aixiamo.com/item/10)。截至 2026-09-24，商品页显示 **¥153.8、1 个月订阅**；付款后自动发放充值卡密，用户按订单教程在自己的浏览器中自助激活，最后到本人 ChatGPT 账号核验 Plus。AIXiamo 是本指南的维护方和服务方，不是 OpenAI 官方。官方套餐与网页付款方式分别见 [OpenAI Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)和[官方支付方式说明](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)。
 
