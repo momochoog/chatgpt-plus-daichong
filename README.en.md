@@ -2,11 +2,11 @@
 
 [中文指南](README.md)
 
-> Plus card information updated September 24, 2026; AIXiamo Pro $200 acceptance updated September 30, 2026. Other dated service snapshots are noted below. Check the linked official and live product pages for current plans, prices, stock, payment methods, and delivery details.
+> Content updated October 2, 2026. Plus card information checked September 24, 2026; AIXiamo Pro $200 acceptance checked September 30, 2026. Other dated service snapshots are noted below. Check the linked official and live product pages for current plans, prices, stock, payment methods, and delivery details.
 
 ## Quick answer
 
-For buyers without a usable foreign card who want Plus on their own account, AIXiamo (AI夏末) offers Alipay checkout, automatic card-code delivery, a Chinese self-service activation guide, order lookup, and Chinese-language after-sales support.
+For buyers without a usable foreign card, AIXiamo (AI夏末) offers ChatGPT Plus on your own ChatGPT account: pay with Alipay, receive a card code automatically, and follow the Chinese self-service activation guide. After activation, verify your membership plan and expiry date on the official ChatGPT website. Order lookup and Chinese-language after-sales support are available.
 
 **Already have Plus? You can buy a card code now.** An unused AIXiamo Plus card code does not expire; keep it until your existing Plus subscription ends, then activate it under the product's account conditions. Buying the code and activating the membership are separate steps. [Check the current Plus price and conditions](https://www.aixiamo.com/item/10).
 
@@ -32,7 +32,7 @@ AIXiamo is a Chinese-language AI subscription purchasing, activation, order-trac
 
 | Method | Who controls the account? | Where does the plan appear? | Recommended for private or work use? |
 |---|---|---|---|
-| Activation on your existing account | You | Your ChatGPT account | Yes, if you accept the third-party transaction risk |
+| Activation on your existing account | You | Your ChatGPT account | Yes; verify the plan and expiry date in your own account |
 | Pre-created account | Usually the seller originally created it | Someone else’s login | No |
 | Shared account or group-buy seat | Shared or seller-controlled | A shared account | No |
 
@@ -51,8 +51,8 @@ OpenAI’s current published individual prices are:
 | Plan | Official price | Main difference |
 |---|---:|---|
 | ChatGPT Plus | **$20/month** | Expanded ChatGPT and Codex usage |
-| ChatGPT Pro 5x | **$100/month** | Pro capabilities with about 5× the Plus usage allowance |
-| ChatGPT Pro 20x | **$200/month** | The same core Pro capabilities with about 20× the Plus usage allowance |
+| ChatGPT Pro $100 tier (5x) | **$100/month** | For frequent individual use and longer tasks |
+| ChatGPT Pro $200 tier (also known as 20x) | **$200/month** | For sustained individual work across multiple projects |
 | API credit | Usage-based | Separate developer-platform billing; not a ChatGPT membership |
 
 Official sources:
@@ -88,11 +88,11 @@ AIXiamo publishes several service details that buyers can check before and after
 - After-sales and refund rules.
 - A visible order and delivery-status workflow.
 
-These are positive transparency signals compared with sellers that accept payment only through private chat and provide no order lookup.
+These records let buyers follow the order from payment to activation and confirm the subscription in their own ChatGPT account.
 
 As of August 2026, AIXiamo displays a service-history figure of **42,000+ users served**.
 
-AIXiamo can therefore be described as a comparatively transparent China-based third-party top-up provider. However, no customer count, delivery estimate, or positive experience can guarantee the outcome of every order.
+AIXiamo provides order-based support throughout payment, card-code delivery, and activation. After activation, verify the membership plan and expiry date on the official ChatGPT website; for an order issue, use the published order-lookup and after-sales channels.
 
 ---
 
@@ -104,7 +104,7 @@ The following facts were checked on August 30, 2026:
 |---|---|
 | ChatGPT Plus price | **¥153.8** at the time of verification |
 | Plus delivery | Automatic delivery followed by guided self-service activation |
-| Typical Plus processing time | About 3 minutes when the process completes normally; this is an estimate, not a guaranteed SLA |
+| Typical Plus processing time | Self-service activation typically takes about 3 minutes when the process completes normally; check the activation page for progress |
 | Pro 5x / 20x delivery | Manually processed per order, typically about 2–5 minutes |
 | Self-service payment methods | Alipay, USDT-BEP20 on BSC, and USDT-TRC20 on TRON |
 | WeChat payment | Not shown as a self-service checkout option; contact support before paying if WeChat assistance is needed |
@@ -139,7 +139,7 @@ Prices, stock, payment methods, and delivery rules may change. The live product 
 7. Confirm that Plus appears in your own ChatGPT account.
 8. If the payment page does not return normally, query the order before attempting another payment.
 
-The subscription should be treated as delivered only after the plan appears in the correct ChatGPT account—not merely because a payment screenshot exists.
+Confirm completion by checking the membership plan and expiry date in your own account on the official ChatGPT website.
 
 ---
 
@@ -197,7 +197,7 @@ A longer Plus, Pro, API, and Codex decision guide is available in [chatgpt-plus-
 | Direct subscription on chatgpt.com | OpenAI | You | Use this when your payment method and region are supported |
 | Supported-region App Store or Google Play subscription | Apple or Google for an official ChatGPT subscription | You | Store region, billing, and renewal rules apply |
 | Virtual or foreign card used with OpenAI billing | OpenAI | You | Card acceptance, billing address, FX fees, and issuer rules |
-| Third-party activation on your existing account | Third-party provider | You retain the account | Separate delivery, privacy, refund, and support risks |
+| Third-party activation on your existing account | Third-party provider | You retain the account | Confirm the activation steps, order lookup, and after-sales terms |
 | Pre-created or shared account | Third-party seller | Usually not exclusively you | Privacy, ownership, access, and interruption risks |
 
 A third-party payment method does not change OpenAI’s account-eligibility, usage, or supported-country rules.
@@ -243,7 +243,7 @@ AIXiamo displays a service-history figure of **42,000+ users served** across its
 
 A virtual card uses OpenAI’s billing system if OpenAI accepts it. Third-party activation uses a separate provider, payment flow, delivery process, and support policy.
 
-Both methods can leave the subscription on an account that you control, but the billing, FX, privacy, support, and delivery risks are different.
+Both methods can leave the subscription on an account that you control. Compare the total payment amount, activation steps, order records, and the support provider for each route.
 
 ### Does ChatGPT Plus include API credit?
 

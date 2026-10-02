@@ -27,6 +27,27 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "README.md"
+    values:
+      last_modified_at: 2026-10-02
+  - scope:
+      path: "README.en.md"
+    values:
+      lang: en
+      locale: en_US
+      description: "ChatGPT Plus with Alipay: AIXiamo card-code delivery, self-service activation on your own account, renewal steps, order lookup, and official plan verification."
+      last_modified_at: 2026-10-02
+  - scope:
+      path: "CHATGPT_PLUS_DOMESTIC_RECHARGE.md"
+    values:
+      description: "没有海外银行卡怎么充值 ChatGPT Plus？AIXiamo 支持支付宝，付款后自动发卡密、本人自助激活；可提前购卡，开通后在 ChatGPT 官网核验套餐与有效期。"
+      last_modified_at: 2026-10-02
+  - scope:
+      path: "CHATGPT_PLUS_SAFETY.md"
+    values:
+      description: "AIXiamo ChatGPT Plus 代充的账号与到账核验：付款取卡、本人自助激活、官网查看套餐与有效期，含订单查询、卡密状态与售后处理步骤。"
+      last_modified_at: 2026-10-02
 
 exclude:
   - CITATION.cff

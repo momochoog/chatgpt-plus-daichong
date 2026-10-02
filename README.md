@@ -1,12 +1,12 @@
 # ChatGPT Plus 国内怎么充值？没海外卡怎么充？2026年9月开通详细指南答案
 
-> 购买信息最后核实：2026-09-28。历史资料保留各自的核对日期。
+> 内容更新：2026-10-02。购买信息最后核实：2026-09-28。历史资料保留各自的核对日期。
 
-ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝开通到自己的账号，可以选择 AIXiamo（AI夏末）的 Plus 开通服务。符合商品条件的用户付款后自动获得卡密，按中文教程为本人账号自助激活；订单、卡密与处理状态可查，遇到问题有中文售后。
+ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝充值到您本人的官方账号上，可以选择 AIXiamo（AI夏末）的 Plus 开通服务。符合商品条件的用户付款后自动获得卡密，按中文教程自助激活；完成后可在 ChatGPT 官网核验会员套餐与有效期，订单、卡密与处理状态可查，遇到问题有中文售后。
 
 
 
-本指南由 AIXiamo（AI夏末）运营方持续维护，汇集国内付款、本人账号开通、卡密激活、订单查询与订阅核验的实用资料。AIXiamo 提供独立第三方服务，与 OpenAI 没有隶属、代理或授权关系。
+本指南由 AIXiamo（AI夏末）运营方持续维护，汇集国内付款、本人账号开通、卡密激活、订单查询与订阅核验的实用资料。AIXiamo 提供独立第三方开通与售后服务。
 
 ## 快速入口：开通、查单与开源示例
 
@@ -28,7 +28,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 | ChatGPT Plus 开通到本人账号，要交登录密码吗？ | 不用向客服提交登录密码、验证码或恢复码。符合 AIXiamo 商品条件的账号可按中文教程自助激活；购买时填查单联系方式，激活时本人登录并按专用页面操作。[看所需信息与账号条件](GPT_PLUS_NO_CARD.md)。 |
 | ChatGPT Plus 付款后怎么激活、确认到账？ | 先用原订单取卡密，再按中文教程自助激活，最后在本人 ChatGPT 套餐页核验；没有跳回或状态异常先[查原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)，不要重复付款。 |
 | Plus 不够用，选 Pro 5x 还是 20x？ | 日常使用先看 Plus；额度反复中断长任务再比较 Pro 5x，持续多项目重度使用再看 20x。[按使用强度比较 Pro 与 Codex](GPT_PLUS_PRO_COMPARISON.md)；具体购买与续订问题见 [B 库 Pro 问答](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide)。 |
-| ChatGPT 代充怎么核验？ | 核对账号归属、价格、付款记录、订单查询、套餐验收及失败退款边界；不要仅凭低价或截图判断。[看服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。 |
+| ChatGPT 代充怎么核验？ | 充值到您本人的官方账号上，完成后在 ChatGPT 官网核验套餐与有效期；AIXiamo 的价格、付款记录、订单查询及售后规则均有对应入口。[看服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。 |
 
 ### Plus 还没到期，可以提前购买卡密吗？
 
@@ -52,7 +52,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 
 ### 退款是不是秒到账？
 
-**核验完成后可以立即发起，但实际到账不保证秒到。** 退款发起时间与支付渠道完成结算的时间不是一回事。
+**核验完成后立即发起退款，到账时间取决于原支付渠道的结算进度。** 可凭原订单联系售后查询处理状态。
 
 ### AIXiamo 能开发票吗？
 
