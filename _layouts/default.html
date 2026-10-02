@@ -8,6 +8,9 @@
     {% if page.url == "/" %}
     <title>{{ site.title | escape }}</title>
     {% seo title=false %}
+    {% elsif page.search_title %}
+    <title>{{ page.search_title | escape }}</title>
+    {% seo title=false %}
     {% else %}
     {% seo %}
     {% endif %}
